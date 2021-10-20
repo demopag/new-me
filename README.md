@@ -7,7 +7,7 @@
     <title>Document</title>
     <link rel="stylesheet" href="baaaa.css">
 </head>
-
+<body>
     <div class="main-body">
   <bodystyle="background-color: rgb(75, 238, 238);">
         <div class=part1>
