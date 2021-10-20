@@ -7,7 +7,7 @@
     <title>Document</title>
     <link rel="stylesheet" href="baaaa.css">
 </head>
-<body>
+<bodystyle="background-color: rgb(75, 238, 238);">
    
     <div class="main-body">
 
@@ -20,7 +20,6 @@
             
             <h4>Name:</h4>
             <h6>Anena Joy</h6>
-        
             <h3>Address:</h3>
             <h6>Kizhakkeveetil(h) <br>East marady P.O <br> Muvattupuzha <br>686673
             </h6>
