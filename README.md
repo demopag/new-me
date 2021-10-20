@@ -7,10 +7,9 @@
     <title>Document</title>
     <link rel="stylesheet" href="baaaa.css">
 </head>
-<bodystyle="background-color: rgb(75, 238, 238);">
-   
-    <div class="main-body">
 
+    <div class="main-body">
+  <bodystyle="background-color: rgb(75, 238, 238);">
         <div class=part1>
 
             <img src="C:\Users\hp\Pictures\Screenshots\20210722_111559" id="image" width="150px" height="150px" alt="photo">
